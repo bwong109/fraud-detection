@@ -1,0 +1,25 @@
+
+# Required Python Libraries for Fraud Detection Project
+
+# Core Libraries
+numpy
+pandas
+
+# Visualization Libraries
+matplotlib
+seaborn
+plotly
+
+# Machine Learning Libraries
+scikit-learn
+imbalanced-learn
+
+# Notebook Environment
+notebook
+
+# Dashboard Development (Optional)
+dash
+
+# Deployment (Optional)
+flask
+fastapi
